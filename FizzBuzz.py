@@ -4,7 +4,7 @@ print(num)
 print("")
 
 
-for x in range(1, num):
+for x in range(1, num + 1):
 
     if x % 15 == 0:
         print("FizzBuzz")
